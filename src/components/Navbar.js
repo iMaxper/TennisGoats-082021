@@ -6,7 +6,7 @@ function Navbar() {
   return(
     <div className="navbar">
       <img className="logo" alt="logo" src={building}/>
-      <p className="company">StreetHard</p>
+      <p className="company">Tennis GOATs</p>
     </div>
   );
 }

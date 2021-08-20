@@ -7,8 +7,10 @@ function DataView(props) {
       <div className="view-column">
         <div className="player">
           <h1 className="player-text">{props.player.PLAYER_NAME}</h1>
+          <img src={props.player.PLAYER_PHOTO}/>
         </div>
       </div>
+    
       <div className="view-column">
         <div className="data-view">
           <div className="data-view-column left right">

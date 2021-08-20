@@ -7,7 +7,8 @@ let data = [
     "USOPEN_SLAMS": 5,
     "CAREER_TITLES": 103,
     "TOTAL_SLAMS": 20,
-    "SLAMS_TO_TITLES_PCT": 19
+    "SLAMS_TO_TITLES_PCT": 19,
+    "PLAYER_PHOTO": "./images/Serena.jpeg"
   },
 
   {
@@ -18,7 +19,8 @@ let data = [
     "USOPEN_SLAMS": 6,
     "CAREER_TITLES": 73,
     "TOTAL_SLAMS": 23,
-    "SLAMS_TO_TITLES_PCT": 32
+    "SLAMS_TO_TITLES_PCT": 32,
+    "PLAYER_PHOTO": "./images/Serena.jpeg"
   }
 ]
 export default data
